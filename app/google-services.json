@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26974307822",
+    "firebase_url": "https://fir-video-86b2a-default-rtdb.firebaseio.com",
+    "project_id": "fir-video-86b2a",
+    "storage_bucket": "fir-video-86b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26974307822:android:e55cf49ec6b645a3b9faff",
+        "android_client_info": {
+          "package_name": "com.example.firebasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26974307822-mju44h40ph030qvign1vlub5mm14k37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74wRm-y1yrHX-rrtcT1Jg7TUdaXujVjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26974307822-mju44h40ph030qvign1vlub5mm14k37a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
