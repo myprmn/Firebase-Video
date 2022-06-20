@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Users/PC-05/AndroidStudioProjects/FirebaseVideo/app/src/main/res/drawable/ic_add.xml" value="0.1" />
         <entry key="..\:/Users/PC-05/AndroidStudioProjects/FirebaseVideo/app/src/main/res/layout/activity_add_videos.xml" value="0.3388888888888889" />
-        <entry key="..\:/Users/PC-05/AndroidStudioProjects/FirebaseVideo/app/src/main/res/layout/activity_videos.xml" value="0.25" />
+        <entry key="..\:/Users/PC-05/AndroidStudioProjects/FirebaseVideo/app/src/main/res/layout/activity_videos.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/PC-05/AndroidStudioProjects/FirebaseVideo/app/src/main/res/layout/row_video.xml" value="0.19444444444444445" />
       </map>
     </option>
   </component>
